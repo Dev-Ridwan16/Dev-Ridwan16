@@ -39,74 +39,76 @@ Technology has the power to change lives, and I want to be part of that transfor
 
 Here are some of the projects I've built and shared on GitHub. Feel free to explore the code and contribute to those that are open source!
 
-## 1. Guessmate (Charades Game App) [OPEN SOURCE]
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Technologies</th>
+      <th>Description</th>
+      <th>Key Features</th>
+      <th>Challenges</th>
+      <th>Repo Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>1. Guessmate (Charades Game App)</strong> [OPEN SOURCE]</td>
+      <td>React Native, Expo-Sensor</td>
+      <td>Guessmate is a fun Charades game app where players can act out words while sensors track their movements. It brings a physical element to the classic game.</td>
+      <td>
+        <ul>
+          <li><strong>Motion Tracking:</strong> Uses device sensors to detect gestures and movements.</li>
+          <li><strong>Simple UI:</strong> Easy to use and get started.</li>
+        </ul>
+      </td>
+      <td>Getting the motion sensors to work smoothly without lag was tricky, but it made the game more fun!</td>
+      <td><a href="https://github.com/Dev-Ridwan16/guessmate">🔗 Guessmate Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>2. Route Optimization with Google Maps</strong></td>
+      <td>React, TypeScript, Google Maps API</td>
+      <td>Helps users find the fastest and alternative routes using Google Maps, optimizing routes based on live traffic data.</td>
+      <td>
+        <ul>
+          <li><strong>Route Optimization:</strong> Finds the quickest path with real-time traffic updates.</li>
+          <li><strong>Multiple Routes:</strong> Plan movements with more than one route.</li>
+          <li><strong>Interactive Map:</strong> See your route live on Google Maps.</li>
+        </ul>
+      </td>
+      <td>Figuring out how to handle multiple waypoints and real-time updates took some time, but the app runs smoothly now.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>3. Item7 Food Ordering Web App</strong> (Work in progress)</td>
+      <td>React, TypeScript</td>
+      <td>Item7 is a food ordering web app where users can browse menus, customize orders, and track delivery in real time.</td>
+      <td>
+        <ul>
+          <li><strong>Menu Display:</strong> Browse items and add to the cart.</li>
+          <li><strong>Order Customization:</strong> Modify menu items (e.g., extra toppings).</li>
+          <li><strong>Order Tracking:</strong> Track your order status in real time.</li>
+        </ul>
+      </td>
+      <td>This project is still in progress. Ensuring the app is fast and user-friendly is a priority. Handling live updates (like order status) is still being worked on.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>4. Amourlink (Val Connect)</strong> [OPEN SOURCE]</td>
+      <td>Python, Flask, TypeScript, HTML, Tailwind CSS</td>
+      <td>Amourlink is a web platform for networking and matchmaking. Built with Flask for the backend and HTML & TypeScript for the frontend, it helps users connect based on interests.</td>
+      <td>
+        <ul>
+          <li><strong>User Profiles:</strong> Create a personal profile and connect with others.</li>
+          <li><strong>Messaging:</strong> Chat with other users.</li>
+          <li><strong>Matchmaking:</strong> Search for users you know and send an approach.</li>
+        </ul>
+      </td>
+      <td>Building the matchmaking system and connecting it with the backend took some time, but it’s now an awesome feature!</td>
+      <td><a href="https://github.com/Dev-Ridwan16/amourlink">🔗 Amourlink Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
-**Technologies:** React Native, Expo-Sensor
-
-### Description:
-Guessmate is a fun Charades game app where players can act out words while sensors track their movements. Built with React Native and Expo-Sensor, it brings a physical element to the classic game.
-
-### Key Features:
-- **Motion Tracking:** Uses device sensors to detect gestures and movements.
-- **Simple UI:** Easy to use and get started.
-
-### Challenges:
-- Getting the motion sensors to work smoothly without lag was tricky, but it made the game more fun!
-
-🔗[Guessmate Repo](https://github.com/Dev-Ridwan16/guessmate)
-
----
-
-## 2. Route Optimization with Google Maps
-
-**Technologies:** React, TypeScript, Google Maps API
-
-### Description:
-This feature helps users find the fastest and alternative routes using Google Maps. It optimizes routes based on live traffic data.
-
-### Key Features:
-- **Route Optimization:** Finds the quickest path with real-time traffic updates.
-- **Multiple Routes:** Plan movements with more than one route.
-- **Interactive Map:** See your route live on Google Maps.
-
-### Challenges:
-- Figuring out how to handle multiple waypoints and real-time updates took some time, but the app runs smoothly now.
-  
----
-
-## 3. Item7 Food Ordering Web App (Work in progress)
-
-**Technologies:** React, TypeScript
-
-### Description:
-Item7 is a food ordering web app where users can browse menus, customize orders, and track delivery in real time.
-
-### Key Features:
-- **Menu Display:** Browse items and add to the cart.
-- **Order Customization:** Modify menu items (e.g., extra toppings).
-- **Order Tracking:** Track your order status in real time.
-
-### Challenges:
-- This project is still in progress. Ensuring the app is fast and user-friendly is a priority. Handling live updates (like order status) is still being worked on.
-
----
-
-## 4. Amourlink (Val Connect) [OPEN SOURCE]
-
-**Technologies:** Python, Flask, TypeScript, HTML, Tailwind CSS
-
-### Description:
-Amourlink is a web platform for networking and matchmaking. Built with Flask for the backend and Html & TypeScript for the frontend, it helps users connect based on interests.
-
-### Key Features:
-- **User Profiles:** Create a personal profile and connect with others.
-- **Messaging:** Chat with other users.
-- **Matchmaking:** Search for users you know and send an approach .
-
-### Challenges:
-- Building the matchmaking system and connecting it with the backend took some time, but it’s now an awesome feature!
-
-🔗[Amourlink Repo](https://github.com/Dev-Ridwan16/amourlink)
 
 ---
 
