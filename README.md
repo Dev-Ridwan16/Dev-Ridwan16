@@ -26,7 +26,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://www.canva.com/design/DAGj0CtD4QM/NuCIbpaPOCsUGOf0HTKz1g/watch?utm_content=DAGj0CtD4QM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h083580d0f3" alt="3D Solar System"></img>
+				<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxZnJ3ZnQxMDkxbDhxZmoxcmphajEyY2p4NDBnMmo4eXVxdmluOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AzKyQKf1BWtjlfHjTV/giphy.gif" alt="3D Solar System"></img>
 			</td>
 			<td>
 			<img src="https://github.com/Yczar/test-driven-dart/assets/32166619/3c9154d9-8926-4e1b-978c-7ba565c6b66d" alt="Tukay"></img>
