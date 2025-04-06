@@ -21,59 +21,63 @@
 	<tbody width="100%">
 	<tr>
 			<th>Guessmate (Charades Game App)</th>	
-			<th>Tukay</th>	
-			<th>Shopping App UI</th>
+			<th>Route Optimization with Google Maps</th>	
+			<th>Item7 Food Ordering Web App</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxZnJ3ZnQxMDkxbDhxZmoxcmphajEyY2p4NDBnMmo4eXVxdmluOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AzKyQKf1BWtjlfHjTV/giphy.gif" alt="3D Solar System"></img>
+				<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxZnJ3ZnQxMDkxbDhxZmoxcmphajEyY2p4NDBnMmo4eXVxdmluOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AzKyQKf1BWtjlfHjTV/giphy.gif" alt="Charades Game app"></img>
 			</td>
 			<td>
-			<img src="https://github.com/Yczar/test-driven-dart/assets/32166619/3c9154d9-8926-4e1b-978c-7ba565c6b66d" alt="Tukay"></img>
+			<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml5M25iNmVnaXEzcHZ5eTk1eDU4NmV0djJvZ3l6cm55cGVuMzFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jYCO72HHfSyWfFelzB/giphy.gif" alt="Route Optimization"></img>
 			</td>
 						<td>
-			<img src="https://user-images.githubusercontent.com/32166619/224167011-e7ba4af5-1014-453b-bb71-bc1a5bb36788.gif" alt="Shopping App UI"></img>
+			<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAwY29tdzBhd3BmeXZraDNnN2pnajExMmhpbWl4bWkxZnZqMjJ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jab60ugJkiAVTfT2eW/giphy.gif" alt="Food Ordering Web App"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				🔗 <a href="https://twitter.com/czarify/status/1613090828054073345?s=20&t=xMTAcGtGOsW2bzeGXyWfMg">Tweet</a>
+<!-- 				🔗 <a href="">Tweet</a> -->
+				<p>React Native & expo-sensor</p>
 			</td>
 			<td>
-				🔗 <a href="https://x.com/czarify/status/1732311731299299742?s=46">Tweet</a>
+<!-- 				🔗 <a href="">Tweet</a> -->
+				<p>React TS & Google Map</p>
 			</td>
 			<td>
-				🔗 <a href="https://twitter.com/czarify/status/1633882663055671296?s=20">Tweet</a>
+<!-- 				🔗 <a href="">Tweet</a> -->
+				<p>React TS</p>
 			</td>
 		</tr>
 		<tr>
-			<th>Shoes Animation</th>	
+			<th>Amourlink (Val connect)</th>	
 			<th>Flash light styled Bottom Navigation</th>	
 			<th>Windows UI using Flutter</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://user-images.githubusercontent.com/32166619/207008038-ec7388f6-25ee-418f-914c-d7aa9be8d258.gif" alt="Shoes Animation"></img>
+				<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlqMjllY2wwdDd6ZjNmaW5tbXowc2x5N2J2ajZqcHRpbmt5cThnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkpiUZZ9mL0ldIHgiU/giphy.gif"></img>
 			</td>
-			<td>
+<!-- 			<td>
 				<img src="https://user-images.githubusercontent.com/32166619/210069480-eb37b579-2382-4339-b0dc-54929c6b5f13.gif" alt="Flash light styled Bottom Navigation"></img>
 			</td>
 			<td>
 			<img src="https://user-images.githubusercontent.com/32166619/210072762-31cea3cf-9ffb-4fce-96cf-3e099c2e95ea.gif" alt="Windows UI using Flutter"></img>
-			</td>
+			</td> -->
 		</tr>
 		<tr>
 			<td>
-				🔗 <a href="https://twitter.com/czarify/status/1600887868121317377?s=20">Tweet</a>
+<!-- 				🔗 <a href="">Tweet</a> -->
+				<p>Python, Flask, TS, HTML, Tailwind</p>
 			</td>
-			<td>
+<!-- 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1608118401343578113?s=20">Tweet</a>
 			</td>
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1582729505977749509?s=20">Tweet</a>
-			</td>
+			</td> -->
 		</tr>
-		<tr>
+<!-- 		<tr>
 			<th>3D Card Animation</th>	
 			<th>Favorite Places UI</th>	
 			<th>Card Swipe Flutter</th>
@@ -118,7 +122,7 @@
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1611279950870372353?s=20&t=xMTAcGtGOsW2bzeGXyWfMg">Tweet</a>
 			</td>
-		</tr>
+		</tr> -->
 	</tbody>
 </table>
 
