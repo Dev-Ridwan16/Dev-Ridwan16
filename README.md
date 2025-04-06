@@ -51,8 +51,8 @@
 		</tr>
 		<tr>
 			<th>Amourlink (Val connect)</th>	
-			<th>Flash light styled Bottom Navigation</th>	
-			<th>Windows UI using Flutter</th>
+<!-- 			<th>Flash light styled Bottom Navigation</th>	
+			<th>Windows UI using Flutter</th> -->
 		</tr>
 		<tr>
 			<td>
