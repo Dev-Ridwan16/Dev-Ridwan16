@@ -15,7 +15,11 @@
 <p align="left">
 <a href="https://twitter.com/lifewithanchor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifewithanchor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ridwan-adewole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridwan-adewole" height="30" width="40" /></a>
-</p>-->
+</p>
+
+[![](https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ridwan16&show_icons=true&locale=en&layout=compact" alt="dev-ridwan16" /></p>
 
@@ -26,7 +30,7 @@ Technology has the power to change lives, and I want to be part of that transfor
 
 <h3 align="left">Connect with me:</h3>
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devridwan1) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lifewithanchor) [![](https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO_ydm-DWmWzxNY9-QecpOg) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lifewith.anchor)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devridwan1) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lifewithanchor) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lifewith.anchor)
 
 ---
 ---
