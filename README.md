@@ -35,7 +35,80 @@ Technology has the power to change lives, and I want to be part of that transfor
 ---
 ---
 
-## Side & Live Projects
+# Side & Live Projects
+
+Here are some of the projects I've built and shared on GitHub. Feel free to explore the code and contribute to those that are open source!
+
+## 1. Guessmate (Charades Game App) [OPEN SOURCE]
+
+**Technologies:** React Native, Expo-Sensor
+
+### Description:
+Guessmate is a fun Charades game app where players can act out words while sensors track their movements. Built with React Native and Expo-Sensor, it brings a physical element to the classic game.
+
+### Key Features:
+- **Motion Tracking:** Uses device sensors to detect gestures and movements.
+- **Simple UI:** Easy to use and get started.
+
+### Challenges:
+- Getting the motion sensors to work smoothly without lag was tricky, but it made the game more fun!
+
+🔗[Guessmate Repo](https://github.com/Dev-Ridwan16/guessmate)
+
+---
+
+## 2. Route Optimization with Google Maps
+
+**Technologies:** React, TypeScript, Google Maps API
+
+### Description:
+This feature helps users find the fastest and alternative routes using Google Maps. It optimizes routes based on live traffic data.
+
+### Key Features:
+- **Route Optimization:** Finds the quickest path with real-time traffic updates.
+- **Multiple Routes:** Plan movements with more than one route.
+- **Interactive Map:** See your route live on Google Maps.
+
+### Challenges:
+- Figuring out how to handle multiple waypoints and real-time updates took some time, but the app runs smoothly now.
+  
+---
+
+## 3. Item7 Food Ordering Web App (Work in progress)
+
+**Technologies:** React, TypeScript
+
+### Description:
+Item7 is a food ordering web app where users can browse menus, customize orders, and track delivery in real time.
+
+### Key Features:
+- **Menu Display:** Browse items and add to the cart.
+- **Order Customization:** Modify menu items (e.g., extra toppings).
+- **Order Tracking:** Track your order status in real time.
+
+### Challenges:
+- This project is still in progress. Ensuring the app is fast and user-friendly is a priority. Handling live updates (like order status) is still being worked on.
+
+---
+
+## 4. Amourlink (Val Connect) [OPEN SOURCE]
+
+**Technologies:** Python, Flask, TypeScript, HTML, Tailwind CSS
+
+### Description:
+Amourlink is a web platform for networking and matchmaking. Built with Flask for the backend and Html & TypeScript for the frontend, it helps users connect based on interests.
+
+### Key Features:
+- **User Profiles:** Create a personal profile and connect with others.
+- **Messaging:** Chat with other users.
+- **Matchmaking:** Search for users you know and send an approach .
+
+### Challenges:
+- Building the matchmaking system and connecting it with the backend took some time, but it’s now an awesome feature!
+
+🔗[Amourlink Repo](https://github.com/Dev-Ridwan16/amourlink)
+
+---
 
 <table>
 	<tbody width="100%">
