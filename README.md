@@ -26,11 +26,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ridwan16&show_icons=true&locale=en" alt="dev-ridwan16" /></p>
 
 ---
-Technology has the power to change lives, and I want to be part of that transformation. As a MERN stack developer with a passion for user-centered design and product innovation, I enjoy translating complex problem into elegant, scalable and efficient solution. I'm currently exploring how technology, storytelling and product thinking can shape great digital experience. My goal is to grow as a product leader while building with intention and impact.
+Technology has the power to change lives, and I want to be part of that transformation. Building products that don’t just solve problems, but make people pause and say — wow, that’s clever.
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devridwan1) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lifewithanchor) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lifewith.anchor)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devridwan1) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lifewithanchor) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lifewith.anchor) -->
 
 ---
 ---
