@@ -92,7 +92,7 @@ Here are some of the projects I've built and shared on GitHub. Feel free to expl
       <td>This project is still in progress. Ensuring the app is fast and user-friendly is a priority. Handling live updates (like order status) is still being worked on.</td>
       <td></td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td><strong>4. Amourlink (Val Connect)</strong> [OPEN SOURCE]</td>
       <td>Python, Flask, TypeScript, HTML, Tailwind CSS</td>
       <td>Amourlink is a web platform for networking and matchmaking. Built with Flask for the backend and HTML & TypeScript for the frontend, it helps users connect based on interests.</td>
@@ -105,7 +105,7 @@ Here are some of the projects I've built and shared on GitHub. Feel free to expl
       </td>
       <td>Building the matchmaking system and connecting it with the backend took some time, but it’s now an awesome feature!</td>
       <td><a href="https://github.com/Dev-Ridwan16/amourlink">🔗 Amourlink Repo</a></td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
