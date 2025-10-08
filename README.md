@@ -144,7 +144,7 @@ Here are some of the projects I've built and shared on GitHub. Feel free to expl
 		<tr>
 			<th>Amourlink (Val connect)</th>	
 		</tr>
-		<tr>
+		<!-- <tr>
 			<td>
 				<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlqMjllY2wwdDd6ZjNmaW5tbXowc2x5N2J2ajZqcHRpbmt5cThnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkpiUZZ9mL0ldIHgiU/giphy.gif"></img>
 			</td>
@@ -153,7 +153,7 @@ Here are some of the projects I've built and shared on GitHub. Feel free to expl
 			<td>
 				<p>Python, Flask, TS, HTML, Tailwind</p>
 			</td>
-		</tr>
+		</tr> -->
 	</tbody>
 </table>
 
