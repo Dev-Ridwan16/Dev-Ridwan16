@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridwan Adewole (Anchor)</h1>
-<h3 align="center">A highly skilled JavaScript Developer</h3>
+<h3 align="center">A highly skilled Software Engineer</h3>
 
 ---
 
